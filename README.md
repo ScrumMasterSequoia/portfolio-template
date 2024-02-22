@@ -1,5 +1,5 @@
 # Project is live at:
-https://portfolio-template-sequoia.netlify.app/
+https://portfolio-template-cdtechies-sequoia.netlify.app/
 
 
 # Web Portfolio Template
