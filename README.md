@@ -1,3 +1,7 @@
+# Project is live at:
+https://portfolio-template-sequoia.netlify.app/
+
+
 # Web Portfolio Template
 
 Welcome to the Beginner's Web Portfolio Template! This project was cloned from the [PortfolioWebsite]( https://github.com/ScrumMasterSequoia/PortfolioWebsite), generously permitted by [Sequoia Kanies](https://github.com/ScrumMasterSequoia) to be used as a stepping stone for budding developers to kickstart their own portfolio site.
@@ -49,3 +53,5 @@ We welcome contributions! Please feel free to submit a pull request.
 ## License
 
 This project is licensed under the ISC License.
+
+

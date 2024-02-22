@@ -173,6 +173,10 @@ h6 { font-size: 16px;}
     background-color: #000;
 }
 
+#green-mode{
+    background-color: #009d05;
+}
+
 #preview{
     width: 240px;
     border: 1.5 solid #17a2b8;

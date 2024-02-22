@@ -26,5 +26,8 @@ function setTheme(mode){
     if(mode == 'black'){
         document.getElementById('theme-style').href = 'black.css'
     }
+    if(mode == 'green'){
+        document.getElementById('theme-style').href = 'green.css'
+    }
     localStorage.setItem('theme', mode)
 }
