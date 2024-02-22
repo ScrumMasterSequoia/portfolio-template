@@ -4,7 +4,14 @@ https://portfolio-template-cdtechies-sequoia.netlify.app/
 
 # Web Portfolio Template
 
-Welcome to the Beginner's Web Portfolio Template! This project was cloned from the [PortfolioWebsite]( https://github.com/ScrumMasterSequoia/PortfolioWebsite), generously permitted by [Sequoia Kanies](https://github.com/ScrumMasterSequoia) to be used as a stepping stone for budding developers to kickstart their own portfolio site.
+Welcome to the Beginner's Web Portfolio Template! This project was cloned from the github repository below and updated, by to be used as a stepping stone for budding developers to kickstart their own portfolio site.
+
+# Links
+
+https://github.com/ScrumMasterSequoia/PortfolioWebsite
+https://github.com/ScrumMasterSequoia
+https://portfolio-website-sequoia.netlify.app/
+
 
 The template is a minimalist yet powerful web project primarily built with HTML and CSS and good old vanilla JavaScript. It serves as a central hub, showcasing images, information, and links to various projects and files. It's an excellent platform for new developers to practice and enhance their HTML, CSS and JS skills.
 
